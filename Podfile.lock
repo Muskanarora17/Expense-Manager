@@ -1,0 +1,24 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+
+DEPENDENCIES:
+  - Charts
+  - FMDB
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - FMDB
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+
+PODFILE CHECKSUM: 0d5d8d658203fa5dbcd244b79fecc55f8930e6f5
+
+COCOAPODS: 1.9.3
